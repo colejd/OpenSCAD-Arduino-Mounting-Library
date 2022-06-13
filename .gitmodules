@@ -1,0 +1,3 @@
+[submodule "pin_connectors"]
+	path = pin_connectors
+	url = https://github.com/tbuser/pin_connectors.git
